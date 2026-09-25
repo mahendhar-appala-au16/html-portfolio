@@ -1,6 +1,5 @@
 # HTML Portfolio & Resume Projects
 
-![HTML Portfolio Website](./images/html-portfolio-banner.png)
 
 ## About This Repository
 
